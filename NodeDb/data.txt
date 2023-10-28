@@ -1,0 +1,5 @@
+npm init -y
+npm i express dotenv pg ejs 
+
+for run the server we are using here 
+node server.js
